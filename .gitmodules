@@ -1,0 +1,6 @@
+[submodule "hw"]
+	path = hw
+	url = git@github.com:elodg/Seat-Debug-HW.git
+[submodule "os"]
+	path = os
+	url = git@github.com:elodg/Seat-Debug-OS.git
